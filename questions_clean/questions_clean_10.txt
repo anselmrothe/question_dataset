@@ -1,0 +1,26 @@
+How many blocks is the blue ship?
+what is the location of one blue square
+is A4 blue?
+Is there a blus unit at F6?
+4a
+How many 4 tile ships are on the board?
+Is there a ship on column A?
+Is part of the red ship on the bottom left tile?
+What is the size of the blue ship?
+How many boats are four units long?
+How long is the red ship?
+Is the blue ship in the A column
+What is the length of the blue ship?
+How many tiles in the blue ship ?
+How many tiles does the red ship have?
+Are any ships in Row 1?
+does any ship have 4 tiles?
+is there an item at F1?
+Does tile A5 hold a part of the any a ship?
+How long is the red ship?
+Are there any colored blocks in the A column?
+How many boxes long is the blue ship?
+is each ship the same size
+Does the blue item have 2 tiles? 
+How many tiles in row 1 have parts of ships in them?
+How many total squares are occupied by ships?

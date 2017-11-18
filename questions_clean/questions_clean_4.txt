@@ -1,0 +1,34 @@
+Is the blue ship vertical
+what is the location of one purple square
+does the purple ship touch both the blue and red ships?
+Is the red ship two blocks long?
+3c
+How many tiles is the red ship?
+Is there a ship on column F? 
+how many tiles is blue ship
+Are any pieces of the red ship in row 1?
+How many tiles long is the blue ship?
+Is the purple ship touching the blue ship?
+Does the purple ship pass through Column F?
+How big is the red ship?
+Which is the first square with the purple ship located in it?
+Is the blue ship vertical or horizontal?
+Where does the purple ship start?
+Is the blue ship oriented vertically?
+Is the Blue Ship in row B only?
+where is the first purple square
+How many tiles in the purple ship ?
+What is the coordinates of the first tile of the purple ship?
+Is the red ship vertical? 
+Is the blue ship parallel to the orange ship?
+does the blue ship have 3 tiles?
+is the blue item 2 tiles long?
+Does B6 hold part of the blue ship?
+How long is the purple ship?
+How big is the blue ship?
+Is the purple boat horizontal?
+Is the blue ship horizontal or vertical?
+Is the blue ship horizontal or vertical?
+Does the blue item have 3 tiles? 
+How long is purple?
+What is the northernmost square occupied by the red ship?

@@ -1,0 +1,40 @@
+How many blocks is the purple ship?
+what color square is on D4
+is the purle ship horizontal or vertical
+Is there a unit in coordinate F6?
+Do any of the ships touch? 
+How many ships are oriented horizontally?
+2e
+How many 4 tiles ships are on the grid?
+Is the red ship placed vertically? 
+3 tiles is blue ship,
+How many pieces are in column E?
+Is part of the blue ship on the bottom right tile?
+Is it true that any of the ships is touching another ship?
+Which boat is the longest?
+How long is the purple ship?
+How many squares long is the blue ship?
+Is the blue ship vertical or horizontal?
+Where is the end of the blue ship
+Is the blue ship oriented horizontally?
+Are more ships horizontal or vertical?
+how many red blocks are there?
+How many tiles in the red ship ?
+Is the red ship horizontal or vertical?
+Is the red ship in cordinate c 2?
+Does the purple ship go upwards?
+does any ship have 4 tiles?
+is the red item 2 tiles long?
+Does tile B6 hold a part of the blue ship?
+How long is the red ship?
+are the ships all vertical
+Is there a blue block in E5?
+Is blue ship 4 tiles long?
+How long is the purple ship?
+Is the red ship horizontal or vertical?
+are the orange and purple ship going in the same direction?
+Does the red item have 3 tiles? 
+Are the majority of the ships horizontal or vertical?
+Which direction is purple?
+How many squares contain ships?
+how big is the blue ship

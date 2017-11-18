@@ -1,0 +1,37 @@
+How many blocks is the orange ship?
+what color is the square at B2
+is the red ship horizontal or vertical
+Is there a blue unit at F2?
+Is the blue ship 4 blocks long? 
+How many blocks is the blue ship?
+1d
+How many tiles is the purple ship?
+How many tiles is the blue ship?
+red has 2 tiles
+How many pieces are in row 2?
+Is the blue ship vertical?
+What is the size of the blue ship?
+How many of the ships are vertically oriented?
+How big is the blue ship?
+Is the red ship located horizontally?
+Is the red ship vertical or horizontal?
+How many squares is the blue ship?
+What is the length of the blue ship?
+Is the red ship vertical or horizontal?
+how many red blocks are there?
+How many tiles in the red ship ?
+Is the purple ship placed vertical on the grid?
+Does the orange ship touch the purple ship?
+how many tiles does the blue ship have?
+is the red item longer than 2 tiles?
+Is part of any of the ships on tile B2?
+How long is the blue ship?
+are all the ships 2 tiles
+Does the red and blue ships have the same number of pieces?
+Is orange ship 4 tiles long?
+How long is the red ship?
+Is the red ship horizontal or vertical?
+are any of the ships 4 blocks?
+Does the blue item have 3 tiles? 
+How long is red?
+how big is the orange ship

@@ -1,0 +1,31 @@
+How many blocks is the orange ship?
+what is the location of one blue square
+does the red ship touch the purple ship?
+Is there a purple unit at A6
+Are there any ships in column F?
+1f
+How many 4 tiles ships on the board?
+Is there a ship on row 1?
+How many ships are vertical?
+Is part of the blue ship on the top left tile?
+Is the blue ship in Row 1?
+Are any of the ships here touching one another?
+Which is the first square with the blue ship in it?
+Is the blue ship horizontal or vertical?
+Where does the blue ship start?
+Is there a red tile in Row 1?
+How many tiles in the red ship ?
+What's the coordinate of the first tile of the red ship located?
+IS there a ship in Column A?
+does the blue ship have 4 tiles?
+is A1 tile empty?
+Is part of a ship on tile F4?
+How long is the red ship?
+are there any ships with 2 tiles
+Does the 1st row contain any ship pieces?
+Is blue ship 4 tiles long?
+How many boxes long is the blue ship?
+are all 3 ships vertical?
+Does the red item have 3 tiles?
+which direction is red?
+How many ships are oriented vertically?

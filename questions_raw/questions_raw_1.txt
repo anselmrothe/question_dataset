@@ -1,0 +1,40 @@
+How many blocks is the red ship?
+what is the location of one blue square
+is the blue ship in the 4th row
+Trur or false Is there a ship place on the upper left corner coordinate A1.
+Where is the start of the red ship?
+Are any of the ships two blocks long?
+1c
+How many 4 tiles ships are on the board?
+how many tiles long is the purple ship? 
+red is the red ship
+how many ship pieces are in column B?
+is the purple shop on the top left tile?
+Is it true that any of the ships are adjacent to one another?
+Which ship is the longest?
+Where is the blue ship
+How many ships are placed horizontally?
+How long is the purple ship?
+Which color has the longest ship?
+Is there a marked tile in column B?
+Are their more ships on top half or bottom half?
+how many blue blocks are there?
+How many tiles for the blue ship ?
+What is the coordinate of the first tile of the red ship?
+Is the red ship 3 tiles long?
+Is the purple ship in column F?
+How many tiles is the blue ship?
+is the  square at A1 red?
+Is a ship at B4?
+How long is the blue ship
+Are the ships located near the top
+Is any part of the blue ship in the 1st row?
+Is blue ship 3 tiles long?
+Is the purple boat in row 5?
+How many boxes long is the blue ship?
+How man pieces in the blue ship?
+Is the blue item 3 tiles long? 
+Are there any ships in the columns with no tiles selected?
+Does B4 contain a ship?
+Are all the ships horizontal?
+how big is the ship

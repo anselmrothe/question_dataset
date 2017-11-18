@@ -1,0 +1,33 @@
+How many blocks is the red ship?
+what is the location of one purple square
+does tile E3 contain a ship
+What are the coordinates of the topmost purple ship square?
+3b
+How many tiles is the purple ship?
+Is there a ship on row 1? 
+red have 3 tiles
+Is part of the red ship on the bottom left tile?
+Are there any ships in the bottom three rows?
+Is one of the other ships touching the blue ship?
+How long is the red ship?
+Is the purple ship 4 squares?
+Is there a red tile in Row 1?
+where is the first red block.
+How many tiles for the purple ship ?
+Where is the coordinate of the first tile of the red ship?
+Is the purple ship 3 tiles long?
+Does another ship touch the blue ship?
+does any ship have 4 tiles?
+is there a ship at F1?
+Is part of the purple ship on A3?
+How long is the red ship?
+are all the ships 3 tiles
+Is any part of the red ship in column A?
+Is orange ship 4 tiles long?
+Is the red boat longer than the blue boat?
+How many boxes long is the red ship?
+are the blue and the purple ship the same size?
+Is there a purple item on A1?
+Are there any other ships touching the blue ship?
+Is red vertical?
+How many squares are occupied by ships?

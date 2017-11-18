@@ -1,0 +1,40 @@
+How many blocks is the orange ship?
+what is the location of one red square
+does the red ship touch both the blue and purple ships?
+Can I start from all blue unit to extend a shape?
+Does the red ship touch the blue ship at all?  
+How many blocks is the purple ship?
+5d
+How many tiles is the purple ship?
+Is the red ship on row 6? 
+where is red ship
+Is the red ship in row 5?
+How many tiles long is the purple ship?
+Is the red ship above the blue ship?
+Does the red ship touch the blue ship?
+Where is the red ship?
+Which is the first square with the red ship located in it?
+How long is the purple ship?
+Where is the start of the red ship?
+Is the purple ship two tiles in length?
+What row is the orange ship in?
+are the red blocks in section f?
+How many tiles in the red ship ?
+What's the coordinate of the first tile of the red ship?
+Is the purple ship vertical?
+Does the orange ship touch the blue ship?
+how many tiles does the red ship have?
+is the purple item 3 tiles long?
+Does tile D6 hold a part of the red ship?
+How the red ship vertical?
+is the orange ship 3 tiles
+Are there any red blocks in Row 5?
+Is orange ship located next to blue ship?
+Is the red boat horizontal?
+How many boxes long is the red ship?
+is the orange ship bigger then the purple ship?
+Does the purple item have 4 tiles? 
+Is any part of the red ship in the lower left quadrant of the grid?
+How long is purple?
+How long is the purple ship?
+how big is the purple ship?

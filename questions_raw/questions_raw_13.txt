@@ -1,0 +1,40 @@
+How many blocks is the purple ship?
+what is the location of one purple square
+is the blue ship horizontal or vertical
+I there an orange coordinate at D3?
+What is one coordinate of the purple ship? 
+Is the blue ship oriented horizontally?
+6a
+How many tiles is the blue ship?
+How many tiles is the purple ship?
+red has 2 tiles
+What shape is the blue ship?
+Does the blue ship stretch to the right?
+Is the purple ship touching another ship?
+Is the blue ship horizontal or vertical?
+How long is the blue ship?
+Which is the first square with the purple ship located in it?
+Is the blue ship vertical or horizontal?
+Where does the purple ship start?
+Is 4A the uppermost tile of the blue ship?
+How many shapes is the purple ship?
+are the purple squares in section 1?
+How many tiles in the purple ship ?
+Is the blue ship vertically placed on the grid?
+Is the blue ship in column A
+Is the purple ship in row 6?
+how many tiles does the purple ship have?
+is the blue item 3 tiles long?
+Is part of any ship on tile A2?
+How long is the purple ship?
+is the purple ship at the top
+Does the 6th row contain any pieces of the purple ship?
+Is blue ship 4 tiles long?
+Is the blue ship vertical?
+Is the blue ship horizontal or vertical?
+is the blue ship less then 4 blocks?
+Does the blue item have 3 tiles? 
+Is the purple ship in the lower half of the grid?
+which direction is blue?
+What is the orientation of the blue ship?
+Where is the purple ship?
