@@ -41,7 +41,7 @@ In addition, [→ questions_raw/](questions_raw) contains all questions that wer
 
 ![Context 1-18](trials-ai-6x3.png)
 
-The partly revealed game boards are in the folder [`contexts`](contexts), with the following coding:
+The partly revealed game boards are in [→ contexts/](contexts), with the following coding:
 
 - `H` = Hidden
 - `W` = Water
