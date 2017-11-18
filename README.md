@@ -47,3 +47,14 @@ The partly revealed game boards are in the folder `contexts`, with the following
 - `B` = Blue ship
 - `R` = Red ship
 - `P` = Purple ship
+
+Example
+
+Trial 13
+
+	H,H,H,H,W,H
+	H,H,H,W,R,H
+	H,W,W,H,R,W
+	B,H,H,W,W,H
+	H,W,H,H,W,H
+	H,H,H,H,H,H
