@@ -7,9 +7,6 @@ Data obtained in Experiment 1 in _Rothe, Lake, & Gureckis (2016). Asking and eva
 
 `df.allBySubj.csv` contains all 605 questions and some extra info.
 
-Each row refers to one natural language question that a person asked in the context of a partly revealed game board.
-
-
 Preview
 
 ```{r}
@@ -20,6 +17,7 @@ Preview
 |     3|    7|shipsize(red)      |shipsize   |2     |      2|     NA|     NA|How many tiles is the red ship? |How many blocks is the red ship?      |
 ```
 
+Each row refers to one natural language question that a person asked in the context of a partly revealed game board.
 
 Columns
 
@@ -41,7 +39,7 @@ In addition, [→ questions_raw/](questions_raw) contains all questions that wer
 
 ![Context 1-18](trials-ai-6x3.png)
 
-The partly revealed game boards are in [→ contexts/](contexts), with the following coding:
+These partly revealed game boards are in [→ contexts/](contexts), with the following coding:
 
 - `H` = Hidden
 - `W` = Water
